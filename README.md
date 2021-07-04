@@ -1,0 +1,3 @@
+# Hardware
+Hardware repo will includes all physical devices that use for overall project.
+Examples: Android, iPhone, Samsung, and etc...
